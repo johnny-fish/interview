@@ -1,0 +1,13 @@
+[local]
+es_url = "mock-url"
+
+
+[development]
+es_url = "dev-url"
+
+[qualif]
+es_url = "qualif-url"
+
+[prod]
+es_url = "prod-url"
+
